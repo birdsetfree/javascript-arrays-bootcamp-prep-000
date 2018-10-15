@@ -13,3 +13,8 @@ function destructivelyRemoveElementFromEndOfArray (array, element) {
   array.pop()
   return array
 }
+
+function destructivelyRemoveElementFromEndOfArray (array, element) {
+  array.pop()
+  return array
+}
