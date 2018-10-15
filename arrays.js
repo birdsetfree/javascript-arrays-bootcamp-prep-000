@@ -6,5 +6,5 @@ function addElementToBeginningOfArray(array, element) {
 }
 
 function removeElementFromEndOfArray (array, element) {
-  
+  return array.slice(0,array.lenght - 1)
 }
