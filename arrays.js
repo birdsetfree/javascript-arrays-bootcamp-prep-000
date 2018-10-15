@@ -18,6 +18,7 @@ function destructivelyAddElementToEndOfArray(array, element) {
   return array
 }
 
+//banu
 function destructivelyRemoveElementFromBeginningOfArray(array) {
   array.shift()
   array
